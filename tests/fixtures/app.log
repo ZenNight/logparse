@@ -1,0 +1,12 @@
+2026-10-13 08:00:01 INFO  server started on port 8080
+2026-10-13 08:00:02 INFO  user 1042 logged in from 10.0.0.12
+2026-10-13 08:00:03 INFO  user 7 logged in from 10.0.0.99
+2026-10-13 08:00:05 WARN  request 3391 took 1207ms
+2026-10-13 08:00:06 ERROR db connection refused (attempt 1)
+2026-10-13 08:00:07 ERROR db connection refused (attempt 2)
+2026-10-13 08:00:08 ERROR db connection refused (attempt 3)
+2026-10-13 08:00:09 INFO  user 88 logged in from 10.0.1.5
+2026-10-13 08:00:10 DEBUG cache hit ratio 0.93
+2026-10-13 08:00:11 [error] worker 4 crashed: signal 11
+this line has no level at all
+2026-10-13 08:00:12 FATAL out of memory, exiting
